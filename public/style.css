@@ -1,0 +1,13 @@
+
+
+#country{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+   gap: 30px;
+}
+
+#card {
+    border: 1px solid black;
+    
+
+}
